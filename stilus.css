@@ -1,0 +1,51 @@
+body{
+    background-image:url('kepek/erdo.jpg');
+    color:#004400;
+    font-family: "Alice";
+}
+p{
+    font-weight: bolder;
+}
+span{
+    font-weight: normal;
+}
+p.sorkizart{
+    text-align: justify;
+    margin: 0px 50px;
+}
+h1, h2{
+    text-align: center;
+}
+a{
+    color: #004400;
+    text-decoration: none;    
+}
+a:hover{
+    color:red
+}
+img.tablekep{
+    width: 150px;
+    height: 120px;
+}
+table{
+    margin: auto;
+}
+table.araktabl{
+    border:1px solid#004400;
+    padding:8px;
+    width: 60%;
+}
+.kozep{
+    text-align: center;
+}
+.jobb{
+    text-align: right;
+}
+#kirkep{
+    width: 160px;
+    float: right;
+}
+hr{
+    border: 3px solid green;
+    max-width: 60%;
+}
